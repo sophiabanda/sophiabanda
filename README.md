@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophiabanda
 - 👀 I’m interested in ... kettlebells and coding.
-- 🌱 I’m currently re-learning ... coding basics.
+- 🌱 I’m currently learning how to be a better developer.
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/sophia-m-banda/)
 
 <!---
