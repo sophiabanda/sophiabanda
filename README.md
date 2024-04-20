@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Always in pursuit of learning how to better use the technology around me.<br>💻 Currently attending the Adobe Digital Academy SWE Immersive and<br>working as a technical support engineer for an E-commerce API<br>⚡ Fun fact: In my previous career I was a fitness coach. <br>I am obsessed with the kettlebell and its versatility.<br>
+🌱 Always in pursuit of learning how to better use the technology around me.<br>💻 Currently attending the Adobe Digital Academy SWE Immersive and working as a technical support engineer for an E-commerce API<br>⚡ Fun fact: In my previous career I was a fitness coach. I am obsessed with the kettlebell and its versatility.<br>
 
 
 ## 🌐 Socials:
