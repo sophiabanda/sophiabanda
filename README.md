@@ -1,3 +1,4 @@
+![octocat-1713624375585](https://github.com/sophiabanda/sophiabanda/assets/51414936/5e04946f-a625-4000-aff2-d243247d1664)
 # 💫 About Me:
 🌱 Always in pursuit of learning how to better use the technology around me.<br>💻 Currently attending the Adobe Digital Academy SWE Immersive and working as a technical support engineer for an E-commerce API<br>⚡ Fun fact: In my previous career I was a fitness coach. I am obsessed with the kettlebell and its versatility.<br>
 
