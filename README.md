@@ -1,8 +1,4 @@
-<img src="https://github.com/sophiabanda/sophiabanda/assets/51414936/5e04946f-a625-4000-aff2-d243247d1664" height="400">
-
-![28C2AAE1-44A4-402E-BD18-BFCDFA05B682_1_105_c](https://github.com/sophiabanda/sophiabanda/assets/51414936/adc3b142-f8a9-4724-9756-2890fa193e10)
-
-
+<img src="[https://github.com/sophiabanda/sophiabanda/assets/51414936/5e04946f-a625-4000-aff2-d243247d1664](https://github.com/sophiabanda/sophiabanda/assets/51414936/adc3b142-f8a9-4724-9756-2890fa193e10)" height="400">
 
 # 💫 About Me:
 🌱 Always in pursuit of learning how to better use the technology around me<br>💻 Technical Support Engineer && Part-Time SWE | Adobe Digital Academy Software Engineering Immersive Alumnus<br>⚡ Fun fact: In my previous career I was a fitness coach. I am obsessed with the kettlebell and its versatility<br>
