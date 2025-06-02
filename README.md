@@ -14,7 +14,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=sophiabanda&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sophiabanda&theme=tokyonight&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabanda&theme=tokyonight&layout=donut)](https://github.com/sophiabanda/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiabanda&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sophiabanda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
