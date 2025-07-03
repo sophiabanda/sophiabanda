@@ -1,7 +1,7 @@
 <img src="https://github.com/sophiabanda/sophiabanda/assets/51414936/adc3b142-f8a9-4724-9756-2890fa193e10" height="400">
 
 # 💫 About Me:
-🌱💻⚡ Always in pursuit of learning how to better use the technology around me <br>
+🌱💻⚡ Always in pursuit of learning how to better use the technology around me.<br>
 
 
 ## 🌐 Socials:
